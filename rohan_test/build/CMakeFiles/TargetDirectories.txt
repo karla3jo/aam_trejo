@@ -1,0 +1,2 @@
+/home/student/aam_software/version_2.0/trunk/build/CMakeFiles/qt-aamtrainer.dir
+/home/student/aam_software/version_2.0/trunk/build/CMakeFiles/runner.dir
